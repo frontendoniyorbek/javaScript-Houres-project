@@ -1,0 +1,24 @@
+body {
+	background: linear-gradient(90deg, #fc466b 0%, #3f5efb 100%);
+	text-align: center;
+	font-size: 72px;
+}
+
+h1 {
+	font-size: 72px;
+	background: -webkit-linear-gradient(#eee, #333);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+ul {
+	list-style: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 72px;
+	background: -webkit-linear-gradient(#1605ff, #e02323);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-size: 100px;
+}
